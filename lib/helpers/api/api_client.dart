@@ -2,7 +2,7 @@ import 'dart:io';
 import 'package:flutter/services.dart' show rootBundle;
 import 'dart:typed_data';
 import 'dart:convert';
-import 'package:flutter_visa_rewards/model/offer.dart';
+import 'package:visa_exclusives/model/offer.dart';
 import 'package:http/io_client.dart';
 
 class ApiClient {

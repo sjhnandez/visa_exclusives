@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_visa_rewards/widget/cashback_progress.dart';
+import 'package:visa_exclusives/widget/cashback_progress.dart';
 
 class _Challenge {
   final int points;

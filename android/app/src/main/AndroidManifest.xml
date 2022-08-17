@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_visa_rewards">
+    package="com.example.visa_exclusives">
    <application
-        android:label="flutter_visa_rewards"
+        android:label="visa_exclusives"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

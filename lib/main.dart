@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_visa_rewards/view/home.dart';
+import 'package:visa_exclusives/view/home.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:flutter_visa_rewards/helpers/api/api_client.dart';
+import 'package:visa_exclusives/helpers/api/api_client.dart';
 
 void main() => runApp(const Main());
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_visa_rewards/model/offer.dart';
+import 'package:visa_exclusives/model/offer.dart';
 
 class HomeDiscounts extends StatelessWidget {
   final Future<List<Offer>> offers;

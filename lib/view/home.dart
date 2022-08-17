@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_visa_rewards/widget/header.dart';
-import 'package:flutter_visa_rewards/widget/footer_nav.dart';
-import 'package:flutter_visa_rewards/model/nav_button.dart';
-import 'package:flutter_visa_rewards/view/home_home.dart';
-import 'package:flutter_visa_rewards/view/home_discounts.dart';
-import 'package:flutter_visa_rewards/helpers/api/api_client.dart';
-import 'package:flutter_visa_rewards/model/offer.dart';
-import 'package:flutter_visa_rewards/view/home_rewards.dart';
+import 'package:visa_exclusives/widget/header.dart';
+import 'package:visa_exclusives/widget/footer_nav.dart';
+import 'package:visa_exclusives/model/nav_button.dart';
+import 'package:visa_exclusives/view/home_home.dart';
+import 'package:visa_exclusives/view/home_discounts.dart';
+import 'package:visa_exclusives/helpers/api/api_client.dart';
+import 'package:visa_exclusives/model/offer.dart';
+import 'package:visa_exclusives/view/home_rewards.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);

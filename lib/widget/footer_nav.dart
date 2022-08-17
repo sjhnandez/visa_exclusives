@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:flutter_visa_rewards/model/nav_button.dart';
+import 'package:visa_exclusives/model/nav_button.dart';
 
 class FooterNav extends StatelessWidget {
   final List<NavButton> buttons;

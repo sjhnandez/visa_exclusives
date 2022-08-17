@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_visa_rewards/widget/cashback_progress.dart';
-import 'package:flutter_visa_rewards/widget/reward_card.dart';
+import 'package:visa_exclusives/widget/cashback_progress.dart';
+import 'package:visa_exclusives/widget/reward_card.dart';
 
 class _Reward {
   final String imagePath;
